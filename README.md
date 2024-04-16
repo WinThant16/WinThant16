@@ -22,7 +22,7 @@
 
 ### 📫 How to reach me:
 
-- LinkedIn: [[Your LinkedIn profile URL](https://www.linkedin.com/in/win-thant-tin-han-319b63207/)]
+- LinkedIn: [https://www.linkedin.com/in/win-thant-tin-han-319b63207/]
 - Email: winthant1601@gmail.com
 
 
