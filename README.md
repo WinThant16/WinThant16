@@ -2,7 +2,7 @@
 
 ### CS @ UCR
 
-👋 Hello! I'm Win, a Computer Science undergrad at the University of California, Riverside. I'm passionate about coding, problem-solving, and learning new technologies.
+👋 Currently I'm a Computer Science undergrad at the University of California, Riverside. 
 
 ---
 
