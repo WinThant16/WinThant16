@@ -1,8 +1,8 @@
 # Win Thant Tin Han
 
-### CS @ UCR
+### CS @ USC
 
-👋 Currently I'm a Computer Science undergrad at the University of California, Riverside. 
+👋 Currently I'm a Computer Science grad student at the University of Southern California. I earned my undergrad in CS at the University of California, Riverside. 
 
 ---
 
