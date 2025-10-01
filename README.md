@@ -2,7 +2,7 @@
 
 ### CS @ USC
 
-👋 Currently I'm a Computer Science grad student at the University of Southern California. I earned my undergrad in CS at the University of California, Riverside. 
+👋 Currently I'm a Computer Science grad student at the University of Southern California. I earned my Bachelor's in CS at the University of California, Riverside. 
 
 ---
 
