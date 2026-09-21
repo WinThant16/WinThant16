@@ -19,7 +19,7 @@
 ### GitHub
  
 <p align="center">
-  <img height="165" src="https://github-stats-extended-frontend-black-five.vercel.app/api?username=WinThant16&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&rank_icon=github" alt="Stats" />
+  <img height="165" src="https://github-stats-extended-frontend-black-five.vercel.app/api?username=WinThant16&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&rank_icon=github&include_all_commits=true" alt="Stats" />
   <img height="165" src="https://github-stats-extended-frontend-black-five.vercel.app/api/top-langs/?username=WinThant16&layout=compact&hide_border=true&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
