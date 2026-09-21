@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=AB0000&center=true&vCenter=true&repeat=false&width=750&height=70&lines=Win+Thant+Tin+Han" alt="Win Thant Tin Han" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=580&color=A855F7&lines=Software+Engineer;M.S.+CS+%40+USC+|+B.S.+CS (Honors)+%40+UCR;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=580&color=A855F7&lines=Software+Engineer;M.S.+CS+%40+USC+%7C+B.S.+CS+%28Honors%29+%40+UCR;" alt="Typing SVG" />
 </p>
 
 <p align="center">Based in California, U.S.A | originally from Yangon, Myanmar</p>
